@@ -1,0 +1,13 @@
+C:\Users\kwaters\dev\Week6Project\Week6Project\bin\Debug\netcoreapp3.1\Week6Project.exe
+C:\Users\kwaters\dev\Week6Project\Week6Project\bin\Debug\netcoreapp3.1\Week6Project.deps.json
+C:\Users\kwaters\dev\Week6Project\Week6Project\bin\Debug\netcoreapp3.1\Week6Project.runtimeconfig.json
+C:\Users\kwaters\dev\Week6Project\Week6Project\bin\Debug\netcoreapp3.1\Week6Project.runtimeconfig.dev.json
+C:\Users\kwaters\dev\Week6Project\Week6Project\bin\Debug\netcoreapp3.1\Week6Project.dll
+C:\Users\kwaters\dev\Week6Project\Week6Project\bin\Debug\netcoreapp3.1\Week6Project.pdb
+C:\Users\kwaters\dev\Week6Project\Week6Project\obj\Debug\netcoreapp3.1\Week6Project.AssemblyInfoInputs.cache
+C:\Users\kwaters\dev\Week6Project\Week6Project\obj\Debug\netcoreapp3.1\Week6Project.AssemblyInfo.cs
+C:\Users\kwaters\dev\Week6Project\Week6Project\obj\Debug\netcoreapp3.1\Week6Project.csproj.CoreCompileInputs.cache
+C:\Users\kwaters\dev\Week6Project\Week6Project\obj\Debug\netcoreapp3.1\Week6Project.dll
+C:\Users\kwaters\dev\Week6Project\Week6Project\obj\Debug\netcoreapp3.1\Week6Project.pdb
+C:\Users\kwaters\dev\Week6Project\Week6Project\obj\Debug\netcoreapp3.1\Week6Project.genruntimeconfig.cache
+C:\Users\kwaters\dev\Week6Project\Week6Project\obj\Debug\netcoreapp3.1\Week6Project.csprojAssemblyReference.cache
